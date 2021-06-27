@@ -1,6 +1,21 @@
-# Getting Started with Create React App
+# Let me ask!
+
+> 📚 Learned application made in typescript, react, firebase, and more stuffs
+
+![Let me ask screen](./src/assets/images/print.png?raw=true)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## ⚙️ Used techs
+
+- TypeScript
+- React
+- Yarn | NPM
+- Firebase
+
+## 🎉 Many Thanks
+
+Many thanks to [Rockeseat 🚀](https://rocketseat.com.br/) for this incredible journey, teaching very well and share many utils things for us.
 
 ## Available Scripts
 
